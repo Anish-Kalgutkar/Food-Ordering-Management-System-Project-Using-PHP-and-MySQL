@@ -1,4 +1,4 @@
-#Food Ordering Management System (DOMS)
+# Food Ordering Management System (DOMS)
 
 A comprehensive web-based platform built with PHP and MySQL to manage food menus, customer orders, and administrative tasks. 
 The system features separate interfaces for customers and administrators, including a built-in virtual wallet for payments.
