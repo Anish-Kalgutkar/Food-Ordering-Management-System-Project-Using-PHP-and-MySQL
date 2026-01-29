@@ -21,15 +21,12 @@ Ticketing System: Resolve customer support queries through the admin panel.
 **Technology**
 StackBackend: PHP (Version 7.4.12 to 8 recommended)
 Database: MySQL (Database Name: doms_db)Frontend: HTML5, CSS3 (Materialize CSS), JavaScript (jQuery, Angular.js)
-
-**Installation & Setup**
-Clone the RepositoryBashgit clone https://github.com/your-username/food-ordering-system.git
 Database ConfigurationOpen PHPMyAdmin or your preferred MySQL tool.
 Create a new database named doms_db.Import the provided SQL file (usually in a /database or root folder).
 Configure ConnectionEnsure the database connection details in includes/connect.
 php match your local environment.
 Run the ProjectPlace the project folder in your local server directory (e.g., C:/xampp/htdocs/).
-Access the system via: http://localhost/food-ordering-system/login.php.
+
 
 **Admin Login Details**
 Username: admin
@@ -37,5 +34,5 @@ Password: admin123
 
 **Sample Customer Login Details**
 
-Username: mcooper
-Password: mcooper123
+Username: virat
+Password: virat123
