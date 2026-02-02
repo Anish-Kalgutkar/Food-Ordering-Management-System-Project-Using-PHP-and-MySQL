@@ -9,7 +9,7 @@ The system features separate interfaces for customers and administrators, includ
 Menu Browsing: View available food items with prices.
 Order Management: Place new orders and track existing ones.
 Virtual Wallet: Pay for orders using a secure virtual wallet system.
-Profile Management: Update personal details, contact information, and shipping address.
+Profile Management: Update personal details, contact information, and shipping address. 
 Support Tickets: Create and manage support tickets for order assistance.
 
 **Admin Features**
